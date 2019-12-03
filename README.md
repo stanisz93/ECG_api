@@ -1,2 +1,2 @@
 
-[!alt text](https://github.com/stanisz93/ECG_api/master/image.png)
+[!Title](https://github.com/stanisz93/ECG_api/blob/master/image.png)
